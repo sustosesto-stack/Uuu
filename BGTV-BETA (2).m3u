@@ -1,0 +1,1535 @@
+#EXTM3U url-tvg="https://www.open-epg.com/files/bulgaria2.xml.gz, https://iptvx.one/EPG, http://epg.one/epg.xml.gz, https://raw.githubusercontent.com/harrygg/EPG/refs/heads/master/epg.xml.gz"
+
+#EXTM3U tvg-url="http://is.gd/tvbgepg, https://dl.dropboxusercontent.com/s/xg6c7av61p1jdoq/epg.xml, https://raw.githubusercontent.com/harrygg/EPG/master/epg.xml"
+
+#BG1
+#EXTINF:-1 group-title="BG - BG 14",BNT 1 HD
+http://85.11.189.178:8080/BNT1HD/index.m3u8
+#EXTINF:-1 group-title="BG - BG 14",BNT 3 HD
+http://85.11.189.178:8080/BNTHD/index.m3u8
+#EXTINF:-1 group-title="BG - BG 14",bTV 
+http://85.11.189.178:8080/bTV/index.m3u8
+#EXTINF:-1 group-title="BG - BG 14",bTV Action 
+http://85.11.189.178:8080/bTVAction/index.m3u8
+#EXTINF:-1 group-title="BG - BG 14",bTV Cinema 
+http://85.11.189.178:8080/bTVCinema/index.m3u8
+#EXTINF:-1 group-title="BG - BG 14",bTV Comedy 
+http://85.11.189.178:8080/bTVComedy/index.m3u8
+#EXTINF:-1 group-title="BG - BG 14",bTV Story 
+http://85.11.189.178:8080/bTVLady/index.m3u8
+#EXTINF:-1 group-title="BG - BG 14",Diema Sport 3 HD
+http://85.11.189.178:8080/DiemaSport3HD/index.m3u8
+#EXTINF:-1 group-title="BG - BG 14",JimJam HD
+http://85.11.189.178:8080/JimJam/index.m3u8
+#BG1
+
+#UA2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/BNT1.png" group-title="BG - UA 2",BNT 1 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228737&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Logo_of_BNT_2_(2018-).svg.png" group-title="BG - UA 2",BNT 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228736&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Logo_of_BNT_3_(2018-).svg.png" group-title="BG - UA 2",BNT 3 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228735&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Logo_of_BNT_4_(2018-).svg.png" group-title="BG - UA 2",BNT 4 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228734&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/BTV_Bulgaria_logo.svg%20(1).png" group-title="BG - UA 2",BTV 1 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228733&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Bulgaria_24_TV.png" group-title="BG - UA 2",BG - UA 2 24
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228731&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Bulgaria_On_Air_TV_logo.svg.png" group-title="BG - UA 2",BG - UA 2 ON AIR
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228730&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Bloomberg_TV_Bulgaria.png" group-title="BG - UA 2",BLOOMBERG
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228729&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/skat.png" group-title="BG - UA 2",SKAT
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228728&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/max-sport-1-logo%20(1).png" group-title="BG - UA 2",MAX SPORT 1 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228727&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport2.png" group-title="BG - UA 2",MAX SPORT 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228726&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Max-sport-3.-logo.png" group-title="BG - UA 2",MAX SPORT 3 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228725&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport4.png" group-title="BG - UA 2",MAX SPORT 4 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228724&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png" group-title="BG - UA 2",DIEMA SPORT 1 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228723&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png" group-title="BG - UA 2",DIEMA SPORT 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228722&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png" group-title="BG - UA 2",DIEMA SPORT 3 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228721&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/NovaSport.png" group-title="BG - UA 2",NOVA SPORT HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228720&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/RING_Bulgaria_logo.svg.png" group-title="BG - UA 2",RING HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228718&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/EUROSPORT01.png" group-title="BG - UA 2",EUROSPORT 1 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228716&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Eurosport_2._HD.png" group-title="BG - UA 2",EUROSPORT 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228715&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/TraceSSLogo.png" group-title="BG - UA 2",TRACE SPORTS STARS HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228714&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/automotor.png" group-title="BG - UA 2",AUTOMOTOR SPORT HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228713&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/FightBoxHD-logo.png" group-title="BG - UA 2",FIGHTBOX HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228712&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/fastandfunbox-logo.png" group-title="BG - UA 2",FAST AND FUNBOX HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228711&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/HBO_HD_logo.png" group-title="BG - UA 2",HBO HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228709&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/EXYU/HBO.png" group-title="BG - UA 2",HBO 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228707&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/HBO3_logo.png" group-title="BG - UA 2",HBO 3 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228706&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Cinemax.png" group-title="BG - UA 2",CINEMAX HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228705&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Cinemax_2_HD.png" group-title="BG - UA 2",CINEMAX 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228704&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/cinebox.png" group-title="BG - UA 2",CINEBOX HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228703&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/ACTION BOX HD.png" group-title="BG - UA 2",ACTION BOX HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228702&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/BTV_Cinema_2016_logo.png" group-title="BG - UA 2",BTV CINEMA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228701&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/btv-action.png" group-title="BG - UA 2",BTV ACTION HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228700&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/BTV_Comedy_Bulgaria_logo.svg.png" group-title="BG - UA 2",BTV COMEDY HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228699&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/BTV_Lady_Bulgaria_logo.svg.png" group-title="BG - UA 2",BTV STORY
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228697&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/filmboxextra.png" group-title="BG - UA 2",FILMBOX EXTRA HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228696&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/FilmboxStars.png" group-title="BG - UA 2",FILMBOX STARS
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228695&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema_Family_Bulgaria_logo.svg.png" group-title="BG - UA 2",DIEMA FAMILY
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228692&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Kino_Nova.png" group-title="BG - UA 2",KINO NOVA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228691&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/DisneyChannelEMEA.svg.png" group-title="BG - UA 2",DISNEY CHANNEL
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228690&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Disney_Junior.png" group-title="BG - UA 2",DISNEY JUNIOR
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228689&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Nick.svg.png" group-title="BG - UA 2",NICK
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228688&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/JimJam.png" group-title="BG - UA 2",JIM JAM
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228687&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/BABY_TV_HD.png" group-title="BG - UA 2",BABY TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228686&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/EKIDS.TV.png" group-title="BG - UA 2",E-KIDS
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228685&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/NOVA_logo.svg.png" group-title="BG - UA 2",NOVA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228684&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/FOX.png" group-title="BG - UA 2",STAR CHANNEL HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228683&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/1200px-Fox_Crime_logo.svg.png" group-title="BG - UA 2",STAR CRIME HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228682&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Fox_life_bg_2014.png" group-title="BG - UA 2",STAR LIFE HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228681&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/AXN_logo_(2015).svg.png" group-title="BG - UA 2",AXN
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228680&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/AMC.png" group-title="BG - UA 2",AMC
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228679&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/MTV.png" group-title="BG - UA 2",MTV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228678&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/CBS_Reality.png" group-title="BG - UA 2",CBS REALITY
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228677&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Epic-Drama.png" group-title="BG - UA 2",EPIC DRAMA HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228676&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/NGC HD.png" group-title="BG - UA 2",NGC HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228675&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/natgeowild.png" group-title="BG - UA 2",NGC WILD HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228674&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/discoverychannel.png" group-title="BG - UA 2",DISCOVERY CHANNEL HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228673&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Investigation_Discovery_Logo.png" group-title="BG - UA 2",INVESTIGATION DISCOVERY
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228672&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/History.png" group-title="BG - UA 2",HISTORY HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228671&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/love-nature-logo_peacock.png" group-title="BG - UA 2",LOVE NATURE HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228670&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/1200px-Travel_Channel_HD_Logo.png" group-title="BG - UA 2",TRAVEL CHANNEL HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228669&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/24kitchen.png" group-title="BG - UA 2",24KITCHEN HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228668&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/tlc.png" group-title="BG - UA 2",TLC HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228667&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/615px-Food_Network_New_Logo.png" group-title="BG - UA 2",FOOD NETWORK HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228666&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Viasat_Nature-logo.svg.png" group-title="BG - UA 2",VIASAT NATURE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228664&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Viasat_History.png" group-title="BG - UA 2",VIASAT HISTORY HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228663&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Viasat_Explorer_HD.png" group-title="BG - UA 2",VIASAT EXPLORE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228662&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/mtv-live.png" group-title="BG - UA 2",MTV LIVE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228661&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/MTV_Hits_UK.png" group-title="BG - UA 2",MTV HITS
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228660&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Club_MTV_osb.png" group-title="BG - UA 2",MTV CLUB
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228659&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/MTV 80S.png" group-title="BG - UA 2",MTV 80S
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228658&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/MTV_90s_2022.svg.png" group-title="BG - UA 2",MTV 90S
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228657&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/mtv00s.png" group-title="BG - UA 2",MTV 00S
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228656&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/planeta.png" group-title="BG - UA 2",PLANETA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228655&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/planetafolk.png" group-title="BG - UA 2",PLANETA FOLK
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228654&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Fenfolk.png" group-title="BG - UA 2",FEN FOLK
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228653&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/magic.png" group-title="BG - UA 2",MAGIC
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228652&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Folklor_TV.png" group-title="BG - UA 2",FOLKLOR
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228651&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/tiankovfolk.png" group-title="BG - UA 2",TIANKOV FOLK
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228650&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/The_Voicen.png" group-title="BG - UA 2",THE VOICE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228649&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/BTV_Bulgaria_logo.svg%20(1).png" group-title="BG - UA 2",BTV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228648&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Logo_of_BNT_3_(2018-).svg.png" group-title="BG - UA 2",BNT 3
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228647&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/balkanika.png" group-title="BG - UA 2",BALKANIKA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228646&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/LOGO_FEN_TC_COLOR_SPACE.png" group-title="BG - UA 2",FEN TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228645&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/2018_Animal_Planet_logo.svg.png" group-title="BG - UA 2",ANIMAL PLANET
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228644&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/BG78TV.png" group-title="BG - UA 2",7/8 TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228643&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/axn_black.png" group-title="BG - UA 2",AXN BLACK
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228642&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/AXN_White_logo_(2015).svg.png" group-title="BG - UA 2",AXN WHITE
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228641&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/novanews.png" group-title="BG - UA 2",NOVA NEWS
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228640&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/CARTOON_NETWORK.png" group-title="BG - UA 2",CARTOON NETWORK
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228639&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Nick_Jr._logo_2023.svg.png" group-title="BG - UA 2",NICK JR
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228638&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/tv1000.png" group-title="BG - UA 2",TV1000
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228637&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/comedybox.png" group-title="BG - UA 2",COMEDY BOX
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228636&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Moviestar.png" group-title="BG - UA 2",MOVIE STAR
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228635&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/eurocom.png" group-title="BG - UA 2",EVROKOM
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228634&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/tv1.png" group-title="BG - UA 2",TV1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228633&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/max-sport-1-logo%20(1).png" group-title="BG - UA 2",MAX SPORT 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228632&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport2.png" group-title="BG - UA 2",MAX SPORT 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228631&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Max-sport-3.-logo.png" group-title="BG - UA 2",MAX SPORT 3
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228630&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport4.png" group-title="BG - UA 2",MAX SPORT 4
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228629&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png" group-title="BG - UA 2",DIEMA SPORT
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228628&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png" group-title="BG - UA 2",DIEMA SPORT 2
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228627&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png" group-title="BG - UA 2",DIEMA SPORT 3
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228626&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Logo_of_CITY_TV.png" group-title="BG - UA 2",CITY TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228620&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/planeta.png" group-title="BG - UA 2",PLANETA TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228619&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Da_Vinci_Primary_Logo_RGB_Red_AW.png" group-title="BG - UA 2",DA VINCI
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228616&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/NickToons_TV.png" group-title="BG - UA 2",NICK TOONS
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228614&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/DM_sat_Logo.png" group-title="BG - UA 2",DM SAT
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228613&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/mezzo-tv3186.logowik.png" group-title="BG - UA 2",MEZZO
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228612&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/tdc.png" group-title="BG - UA 2",TDC DIZI
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228611&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/NostalgiaTV-logo.png" group-title="BG - UA 2",NOSTALIGA
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228610&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Crime_+_Investigation_Logo_10.2019.svg.png" group-title="BG - UA 2",CRIME & INVESTIGATION
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228608&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/theworld.png" group-title="BG - UA 2",THE WORLD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228607&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/travelxplogo.png" group-title="BG - UA 2",TRAVEL TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228605&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/HGTV_2010.svg.png" group-title="BG - UA 2",HGTV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228604&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/docubox-logo.png" group-title="BG - UA 2",DOCUBOX
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=228603&extension=ts
+#UA2
+
+#BG7
+#EXTINF:-1 group-title="BG - BG 7",BNT 1 HD
+http://84.54.186.107:8000/play/a01w
+#EXTINF:-1 group-title="BG - BG 7",bTV HD
+http://84.54.186.107:8000/play/a01v
+#EXTINF:-1 group-title="BG - BG 7",Nova HD
+http://84.54.186.107:8000/play/a01y
+#EXTINF:-1 group-title="BG - BG 7",Kino Nova
+http://84.54.186.107:8000/play/a021
+#EXTINF:-1 group-title="BG - BG 7",Diema
+http://84.54.186.107:8000/play/a022
+#EXTINF:-1 group-title="BG - BG 7",Diema Family
+http://84.54.186.107:8000/play/a023
+#EXTINF:-1 group-title="BG - BG 7",bTV Action HD
+http://84.54.186.107:8000/play/a006
+#EXTINF:-1 group-title="BG - BG 7",bTV Cinema HD
+http://84.54.186.107:8000/play/a00w
+#EXTINF:-1 group-title="BG - BG 7",bTV Comedy HD
+http://84.54.186.107:8000/play/a00k
+#EXTINF:-1 group-title="BG - BG 7",bTV Story HD
+http://84.54.186.107:8000/play/a00l
+#EXTINF:-1 group-title="BG - BG 7",AXN
+http://84.54.186.107:8000/play/a024
+#EXTINF:-1 group-title="BG - BG 7",Nostalgia HD
+http://84.54.186.107:8000/play/a00q
+#EXTINF:-1 group-title="BG - BG 7",Cinemania HD
+http://84.54.186.107:8000/play/a00r
+#EXTINF:-1 group-title="BG - BG 7",SKAT TV
+http://84.54.186.107:8000/play/a00s
+#EXTINF:-1 group-title="BG - BG 7",Nova News HD
+http://84.54.186.107:8000/play/a005
+#EXTINF:-1 group-title="BG - BG 7",Euronews Bulgaria
+http://84.54.186.107:8000/play/a029
+#EXTINF:-1 group-title="BG - BG 7",Evrokom HD
+http://84.54.186.107:8000/play/a002
+#EXTINF:-1 group-title="BG - BG 7",24Kitchen HD
+http://84.54.186.107:8000/play/a01e
+#EXTINF:-1 group-title="BG - BG 7",City TV
+http://84.54.186.107:8000/play/a020
+#EXTINF:-1 group-title="BG - BG 7",BG Music
+http://84.54.186.107:8000/play/a02a
+#EXTINF:-1 group-title="BG - BG 7",Folklor TV
+http://84.54.186.107:8000/play/a025
+#EXTINF:-1 group-title="BG - BG 7",Planeta HD
+http://84.54.186.107:8000/play/a00d
+#EXTINF:-1 group-title="BG - BG 7",Diema Sport HD
+http://84.54.186.107:8000/play/a00t
+#EXTINF:-1 group-title="BG - BG 7",Diema Sport 2 HD
+http://84.54.186.107:8000/play/a02q
+#EXTINF:-1 group-title="BG - BG 7",Diema Sport 3 HD
+http://84.54.186.107:8000/play/a03i
+#EXTINF:-1 group-title="BG - BG 7",MAX Sport 1 HD
+http://84.54.186.107:8000/play/a02u
+#EXTINF:-1 group-title="BG - BG 7",MAX Sport 2 HD
+http://84.54.186.107:8000/play/a02v
+#EXTINF:-1 group-title="BG - BG 7",MAX Sport 3 HD
+http://84.54.186.107:8000/play/a02t
+#EXTINF:-1 group-title="BG - BG 7",Eurosport 1 HD 
+http://84.54.186.107:8000/play/a02r
+#EXTINF:-1 group-title="BG - BG 7",Eurosport 2 HD
+http://84.54.186.107:8000/play/a02b
+#EXTINF:-1 group-title="BG - BG 7",Ring HD
+http://84.54.186.107:8000/play/a004
+#EXTINF:-1 group-title="BG - BG 7",Nova Sport HD 
+http://84.54.186.107:8000/play/a02s
+#EXTINF:-1 group-title="BG - BG 7",Da Vinci
+http://84.54.186.107:8000/play/a01s
+#EXTINF:-1 group-title="BG - BG 7",Nick Jr
+http://84.54.186.107:8000/play/a03l
+#EXTINF:-1 group-title="BG - BG 7",Discovery Channel HD
+http://84.54.186.107:8000/play/a003
+#EXTINF:-1 group-title="BG - BG 7",Nat Geo HD
+http://84.54.186.107:8000/play/a00i
+#EXTINF:-1 group-title="BG - BG 7",Nat Geo Wild HD
+http://84.54.186.107:8000/play/a02g
+#EXTINF:-1 group-title="BG - BG 7",AMC
+http://84.54.186.107:8000/play/a01r
+#EXTINF:-1 group-title="BG - BG 7",FilmBox
+http://84.54.186.107:8000/play/a02c
+#EXTINF:-1 group-title="BG - BG 7",TV1000
+http://84.54.186.107:8000/play/a02e
+#EXTINF:-1 group-title="BG - BG 7",Travel TV
+http://84.54.186.107:8000/play/a03q
+#EXTINF:-1 group-title="BG - BG 7",Code Fashion HD
+http://84.54.186.107:8000/play/a03v
+#EXTINF:-1 group-title="BG - BG 7",Bloomberg TV BG
+http://84.54.186.107:8000/play/a03s
+#EXTINF:-1 group-title="BG - BG 7",FEN HD
+http://84.54.186.107:8000/play/a03t
+#EXTINF:-1 group-title="BG - BG 7",Agro Tv
+http://84.54.186.107:8000/play/a03x
+#EXTINF:-1 group-title="BG - BG 7",Nick Jr
+http://84.54.186.107:8000/play/a03z
+#EXTINF:-1 group-title="BG - BG 7",Nicktoons
+http://84.54.186.107:8000/play/a040
+#BG7
+
+#bg8
+#EXTINF:-1 group-title="BG - BG 8",BNT 1 HD
+http://84.54.186.107:8000/play/a01w
+#EXTINF:-1 group-title="BG - BG 8",bTV HD
+http://84.54.186.107:8000/play/a01v
+#EXTINF:-1 group-title="BG - BG 8",Nova HD
+http://84.54.186.107:8000/play/a01y
+#EXTINF:-1 group-title="BG - BG 8",Kino Nova
+http://84.54.186.107:8000/play/a021
+#EXTINF:-1 group-title="BG - BG 8",Diema
+http://84.54.186.107:8000/play/a022
+#EXTINF:-1 group-title="BG - BG 8",Diema Family
+http://84.54.186.107:8000/play/a023
+#EXTINF:-1 group-title="BG - BG 8",bTV Action HD
+http://84.54.186.107:8000/play/a006
+#EXTINF:-1 group-title="BG - BG 8",bTV Cinema HD
+http://84.54.186.107:8000/play/a00w
+#EXTINF:-1 group-title="BG - BG 8",bTV Comedy HD
+http://84.54.186.107:8000/play/a00k
+#EXTINF:-1 group-title="BG - BG 8",bTV Story HD
+http://84.54.186.107:8000/play/a00l
+#EXTINF:-1 group-title="BG - BG 8",AXN
+http://84.54.186.107:8000/play/a024
+#EXTINF:-1 group-title="BG - BG 8",Cinemania HD
+http://84.54.186.107:8000/play/a00r
+#EXTINF:-1 group-title="BG - BG 8",SKAT
+http://84.54.186.107:8000/play/a00s
+#EXTINF:-1 group-title="BG - BG 8",Nova News HD
+http://84.54.186.107:8000/play/a005
+#EXTINF:-1 group-title="BG - BG 8",Euronews Bulgaria
+http://84.54.186.107:8000/play/a029
+#EXTINF:-1 group-title="BG - BG 8",Evrokom HD
+http://84.54.186.107:8000/play/a002
+#EXTINF:-1 group-title="BG - BG 8",24Kitchen HD
+http://84.54.186.107:8000/play/a01e
+#EXTINF:-1 group-title="BG - BG 8",City TV
+http://84.54.186.107:8000/play/a020
+#EXTINF:-1 group-title="BG - BG 8",BG Music
+http://84.54.186.107:8000/play/a02a
+#EXTINF:-1 group-title="BG - BG 8",Folklor TV
+http://84.54.186.107:8000/play/a025
+#EXTINF:-1 group-title="BG - BG 8",Planeta HD
+http://84.54.186.107:8000/play/a00d
+#EXTINF:-1 group-title="BG - BG 8",Diema Sport HD
+http://84.54.186.107:8000/play/a00t
+#EXTINF:-1 group-title="BG - BG 8",Diema Sport 2 HD
+http://84.54.186.107:8000/play/a02q
+#EXTINF:-1 group-title="BG - BG 8",Diema Sport 3 HD
+http://84.54.186.107:8000/play/a03i
+#EXTINF:-1 group-title="BG - BG 8",MAX Sport 1 HD
+http://84.54.186.107:8000/play/a02u
+#EXTINF:-1 group-title="BG - BG 8",MAX Sport 2 HD
+http://84.54.186.107:8000/play/a02v
+#EXTINF:-1 group-title="BG - BG 8",MAX Sport 3 HD
+http://84.54.186.107:8000/play/a02t
+#EXTINF:-1 group-title="BG - BG 8",Eurosport 1 HD
+http://84.54.186.107:8000/play/a02r
+#EXTINF:-1 group-title="BG - BG 8",Eurosport 2 HD
+http://84.54.186.107:8000/play/a02b
+#EXTINF:-1 group-title="BG - BG 8",Ring HD
+http://84.54.186.107:8000/play/a004
+#EXTINF:-1 group-title="BG - BG 8",Nova Sport HD
+http://84.54.186.107:8000/play/a02s
+#EXTINF:-1 group-title="BG - BG 8",Da Vinci
+http://84.54.186.107:8000/play/a01s
+#EXTINF:-1 group-title="BG - BG 8",Nick Jr
+http://84.54.186.107:8000/play/a03l
+#EXTINF:-1 group-title="BG - BG 8",Discovery Channel HD
+http://84.54.186.107:8000/play/a003
+#EXTINF:-1 group-title="BG - BG 8",Nat Geo HD
+http://84.54.186.107:8000/play/a00i
+#EXTINF:-1 group-title="BG - BG 8",HGTV
+http://84.54.186.107:8000/play/a02d
+#EXTINF:-1 group-title="BG - BG 8",Nat Geo Wild HD
+http://84.54.186.107:8000/play/a02g
+#EXTINF:-1 group-title="BG - BG 8",AMC
+http://84.54.186.107:8000/play/a01r
+#EXTINF:-1 group-title="BG - BG 8",FilmBox
+http://84.54.186.107:8000/play/a02c
+#EXTINF:-1 group-title="BG - BG 8",TV1000
+http://84.54.186.107:8000/play/a02e
+#EXTINF:-1 group-title="BG - BG 8",TLC
+http://84.54.186.107:8000/play/a02f
+#EXTINF:-1 group-title="BG - BG 8",Travel TV
+http://84.54.186.107:8000/play/a03q
+#EXTINF:-1 group-title="BG - BG 8",TVT
+http://84.54.186.107:8000/play/a03u
+#EXTINF:-1 group-title="BG - BG 8",Code Fashion HD
+http://84.54.186.107:8000/play/a03v
+#EXTINF:-1 group-title="BG - BG 8",Bloomberg TV BG
+http://84.54.186.107:8000/play/a03s
+#EXTINF:-1 group-title="BG - BG 8",FEN HD
+http://84.54.186.107:8000/play/a03t
+#EXTINF:-1 group-title="BG - BG 8",Agro Tv
+http://84.54.186.107:8000/play/a03x
+#EXTINF:-1 group-title="BG - BG 8",Nick Jr
+http://84.54.186.107:8000/play/a03z
+#EXTINF:-1 group-title="BG - BG 8",Nicktoons
+http://84.54.186.107:8000/play/a040
+#bg8
+
+#bg11
+#EXTINF:-1 group-title="BG - BG 11",BNT 1
+http://212.70.131.12:800/play/a0fv
+#EXTINF:-1 group-title="BG - BG 11",BNT 2
+http://212.70.131.12:800/play/a0fx
+#EXTINF:-1 group-title="BG - BG 11",BNT 3
+http://212.70.131.12:800/play/a0fy
+#EXTINF:-1 group-title="BG - BG 11",BNT 4
+http://212.70.131.12:800/play/a0j2
+#EXTINF:-1 group-title="BG - BG 11",Nova
+http://212.70.131.12:800/play/a0j1
+#EXTINF:-1 group-title="BG - BG 11",bTV
+http://212.70.131.12:800/play/a0fu
+#EXTINF:-1 group-title="BG - BG 11",bTV Action
+http://212.70.131.12:800/play/a0g0
+#EXTINF:-1 group-title="BG - BG 11",bTV Cinema
+http://212.70.131.12:800/play/a0k1
+#EXTINF:-1 group-title="BG - BG 11",bTV Comedy
+http://212.70.131.12:800/play/a0le
+#EXTINF:-1 group-title="BG - BG 11",bTV Story
+http://212.70.131.12:800/play/a0jw
+#EXTINF:-1 group-title="BG - BG 11",Balkanika
+http://212.70.131.12:800/play/a0fz
+#EXTINF:-1 group-title="BG - BG 11",Bloomberg BG
+http://212.70.131.12:800/play/a0j4
+#EXTINF:-1 group-title="BG - BG 11",Bulgaria 24
+http://212.70.131.12:800/play/a0gt
+#EXTINF:-1 group-title="BG - BG 11",Bulgaria On Air
+http://212.70.131.12:800/play/a0j3
+#EXTINF:-1 group-title="BG - BG 11",Bulgaria On Air
+http://212.70.131.12:800/play/a0gu
+#EXTINF:-1 group-title="BG - BG 11",CNBC Europe
+http://212.70.131.12:800/play/a0jx
+#EXTINF:-1 group-title="BG - BG 11",Cartoon Network
+http://212.70.131.12:800/play/a0kz
+#EXTINF:-1 group-title="BG - BG 11",Classical Harmony
+http://212.70.131.12:800/play/a0l1
+#EXTINF:-1 group-title="BG - BG 11",Code Health TV
+http://212.70.131.12:800/play/a0jr
+#EXTINF:-1 group-title="BG - BG 11",DW
+http://212.70.131.12:800/play/a0jf
+#EXTINF:-1 group-title="BG - BG 11",Discovery Channel
+http://212.70.131.12:800/play/a0fw
+#EXTINF:-1 group-title="BG - BG 11",DocuBox
+http://212.70.131.12:800/play/a0lc
+#EXTINF:-1 group-title="BG - BG 11",Duga
+http://212.70.131.12:800/play/a0k6
+#EXTINF:-1 group-title="BG - BG 11",ERT World
+http://212.70.131.12:800/play/a0jm
+#EXTINF:-1 group-title="BG - BG 11",ESPRESO TV
+http://212.70.131.12:800/play/a0k4
+#EXTINF:-1 group-title="BG - BG 11",English Club
+http://212.70.131.12:800/play/a0l0
+#EXTINF:-1 group-title="BG - BG 11",Euronews
+http://212.70.131.12:800/play/a0kt
+#EXTINF:-1 group-title="BG - BG 11",FilmBox Extra
+http://212.70.131.12:800/play/a0kq
+#EXTINF:-1 group-title="BG - BG 11",Freedom
+http://212.70.131.12:800/play/a0l9
+#EXTINF:-1 group-title="BG - BG 11",HGTV
+http://212.70.131.12:800/play/a0gp
+#EXTINF:-1 group-title="BG - BG 11",Hit Mix
+http://212.70.131.12:800/play/a0k2
+#EXTINF:-1 group-title="BG - BG 11",KCN Music 2
+http://212.70.131.12:800/play/a0jh
+#EXTINF:-1 group-title="BG - BG 11",Kanal 3
+http://212.70.131.12:800/play/a0jq
+#EXTINF:-1 group-title="BG - BG 11",M1-Global
+http://212.70.131.12:800/play/a0kx
+#EXTINF:-1 group-title="BG - BG 11",MAX Sport 1
+http://212.70.131.12:800/play/a0gs
+#EXTINF:-1 group-title="BG - BG 11",MAX Sport 2
+http://212.70.131.12:800/play/a0ju
+#EXTINF:-1 group-title="BG - BG 11",MAX Sport 3
+http://212.70.131.12:800/play/a0gq
+#EXTINF:-1 group-title="BG - BG 11",MAX Sport 4
+http://212.70.131.12:800/play/a0go
+#EXTINF:-1 group-title="BG - BG 11",MTV
+http://212.70.131.12:800/play/a0l8
+#EXTINF:-1 group-title="BG - BG 11",MTV 00s
+http://212.70.131.12:800/play/a0l6
+#EXTINF:-1 group-title="BG - BG 11",MTV 80s
+http://212.70.131.12:800/play/a0l7
+#EXTINF:-1 group-title="BG - BG 11",MTV 90s
+http://212.70.131.12:800/play/a0l4
+#EXTINF:-1 group-title="BG - BG 11",MTV Hits
+http://212.70.131.12:800/play/a0l5
+#EXTINF:-1 group-title="BG - BG 11",NHK WORLD
+http://212.70.131.12:800/play/a0ky
+#EXTINF:-1 group-title="BG - BG 11",Planeta Folk
+http://212.70.131.12:800/play/a0jz
+#EXTINF:-1 group-title="BG - BG 11",RIK Sat
+http://212.70.131.12:800/play/a0jn
+#EXTINF:-1 group-title="BG - BG 11",RING
+http://212.70.131.12:800/play/a0k0
+#EXTINF:-1 group-title="BG - BG 11",RTP Internacional
+http://212.70.131.12:800/play/a0ka
+#EXTINF:-1 group-title="BG - BG 11",SAT1
+http://212.70.131.12:800/play/a0jg
+#EXTINF:-1 group-title="BG - BG 11",SHOW TURK
+http://212.70.131.12:800/play/a0js
+#EXTINF:-1 group-title="BG - BG 11",Skat TV
+http://212.70.131.12:800/play/a0ke
+#EXTINF:-1 group-title="BG - BG 11",Svet Plus
+http://212.70.131.12:800/play/a0kj
+#EXTINF:-1 group-title="BG - BG 11",TG COM24
+http://212.70.131.12:800/play/a0k7
+#EXTINF:-1 group-title="BG - BG 11",TLC
+http://212.70.131.12:800/play/a0k9
+#EXTINF:-1 group-title="BG - BG 11",TV Rodina
+http://212.70.131.12:800/play/a0gv
+#EXTINF:-1 group-title="BG - BG 11",TV Shumen
+http://212.70.131.12:800/play/a0jl
+#EXTINF:-1 group-title="BG - BG 11",TV1
+http://212.70.131.12:800/play/a0gr
+#EXTINF:-1 group-title="BG - BG 11",TV1000
+http://212.70.131.12:800/play/a0kw
+#EXTINF:-1 group-title="BG - BG 11",TVE Internacional
+http://212.70.131.12:800/play/a0jj
+#EXTINF:-1 group-title="BG - BG 11",Tiankov Orient Folk
+http://212.70.131.12:800/play/a0ji
+#EXTINF:-1 group-title="BG - BG 11",Travel Channel
+http://212.70.131.12:800/play/a0kp
+#EXTINF:-1 group-title="BG - BG 11",VTK
+http://212.70.131.12:800/play/a0jy
+#EXTINF:-1 group-title="BG - BG 11",Viasat Explore
+http://212.70.131.12:800/play/a0kn
+#EXTINF:-1 group-title="BG - BG 11",Viasat History
+http://212.70.131.12:800/play/a0kl
+#EXTINF:-1 group-title="BG - BG 11",Viasat Nature
+http://212.70.131.12:800/play/a0km
+#EXTINF:-1 group-title="BG - BG 11",XY max
+http://212.70.131.12:800/play/a0k5
+#EXTINF:-1 group-title="BG - BG 11",XY mix
+http://212.70.131.12:800/play/a0kh
+#EXTINF:-1 group-title="BG - BG 11",XY plus
+http://212.70.131.12:800/play/a0kf
+#EXTINF:-1 group-title="BG - BG 11",24 Horas
+http://212.70.131.12:800/play/a0jo
+#EXTINF:-1 group-title="BG - BG 11",AMC
+http://212.70.131.12:800/play/a0k3
+#EXTINF:-1 group-title="BG - BG 11",AXN Black
+http://212.70.131.12:800/play/a0kv
+#EXTINF:-1 group-title="BG - BG 11",AXN White
+http://212.70.131.12:800/play/a0ku
+#EXTINF:-1 group-title="BG - BG 11",Agro Tv
+http://212.70.131.12:800/play/a0kc
+#EXTINF:-1 group-title="BG - BG 11",Al Jazerra
+http://212.70.131.12:800/play/a0ki
+#EXTINF:-1 group-title="BG - BG 11",Animal Planet
+http://212.70.131.12:800/play/a0ks
+#EXTINF:-1 group-title="BG - BG 11",Arirang
+http://212.70.131.12:800/play/a0l3
+#EXTINF:-1 group-title="BG - BG 11",BHTV
+http://212.70.131.12:800/play/a0kd
+#BG11
+
+#bg12
+#EXTINF:-1 group-title="BG - BG 12",BNT 1
+http://85.14.32.26:8800/udp/239.100.10.1:5000
+#EXTINF:-1 group-title="BG - BG 12",bTV
+http://85.14.32.26:8800/udp/239.100.10.2:5000
+#EXTINF:-1 group-title="BG - BG 12",bTV Action
+http://85.14.32.26:8800/udp/239.100.10.3:5000
+#EXTINF:-1 group-title="BG - BG 12",bTV Cinema
+http://85.14.32.26:8800/udp/239.100.10.4:5000
+#EXTINF:-1 group-title="BG - BG 12",bTV Comedy
+http://85.14.32.26:8800/udp/239.100.10.5:5000
+#EXTINF:-1 group-title="BG - BG 12",bTV Story
+http://85.14.32.26:8800/udp/239.100.10.6:5000
+#EXTINF:-1 group-title="BG - BG 12",Nova TV
+http://85.14.32.26:8800/udp/239.100.10.7:5000
+#EXTINF:-1 group-title="BG - BG 12",Nova Sport
+http://85.14.32.26:8800/udp/239.100.10.8:5000
+#EXTINF:-1 group-title="BG - BG 12",Diema
+http://85.14.32.26:8800/udp/239.100.10.9:5000
+#EXTINF:-1 group-title="BG - BG 12",Diema Family
+http://85.14.32.26:8800/udp/239.100.10.10:5000
+#EXTINF:-1 group-title="BG - BG 12",24Kitchen
+http://85.14.32.26:8800/udp/239.100.10.11:5000
+#EXTINF:-1 group-title="BG - BG 12",Al Jazeera
+http://85.14.32.26:8800/udp/239.100.10.12:5000
+#EXTINF:-1 group-title="BG - BG 12",Animal Planet
+http://85.14.32.26:8800/udp/239.100.10.14:5000
+#EXTINF:-1 group-title="BG - BG 12",AXN
+http://85.14.32.26:8800/udp/239.100.10.16:5000
+#EXTINF:-1 group-title="BG - BG 12",AXN White
+http://85.14.32.26:8800/udp/239.100.10.18:5000
+#EXTINF:-1 group-title="BG - BG 12",AXN Black
+http://85.14.32.26:8800/udp/239.100.10.17:5000
+#EXTINF:-1 group-title="BG - BG 12",Balkanika Music TV HD
+http://85.14.32.26:8800/udp/239.100.10.20:5000
+#EXTINF:-1 group-title="BG - BG 12",BG Music Channel HD
+http://85.14.32.26:8800/udp/239.100.10.21:5000
+#EXTINF:-1 group-title="BG - BG 12",Balkanika Music
+http://85.14.32.26:8800/udp/239.100.10.19:5000
+#EXTINF:-1 group-title="BG - BG 12",BNT 1 HD
+http://85.14.32.26:8800/udp/239.100.10.24:5000
+#EXTINF:-1 group-title="BG - BG 12",BG Music Channel
+http://85.14.32.26:8800/udp/239.100.10.22:5000
+#EXTINF:-1 group-title="BG - BG 12",BNT 2
+http://85.14.32.26:8800/udp/239.100.10.25:5000
+#EXTINF:-1 group-title="BG - BG 12",BNT 4
+http://85.14.32.26:8800/udp/239.100.10.26:5000
+#EXTINF:-1 group-title="BG - BG 12",Cartoonito
+http://85.14.32.26:8800/udp/239.100.10.27:5000
+#EXTINF:-1 group-title="BG - BG 12",Box HD
+http://85.14.32.26:8800/udp/239.100.10.28:5000
+#EXTINF:-1 group-title="BG - BG 12",bTV Action HD
+http://85.14.32.26:8800/udp/239.100.10.30:5000
+#EXTINF:-1 group-title="BG - BG 12",Box TV
+http://85.14.32.26:8800/udp/239.100.10.29:5000
+#EXTINF:-1 group-title="BG - BG 12",bTV HD
+http://85.14.32.26:8800/udp/239.100.10.31:5000
+#EXTINF:-1 group-title="BG - BG 12",Bulgaria On Air
+http://85.14.32.26:8800/udp/239.100.10.32:5000
+#EXTINF:-1 group-title="BG - BG 12",Cartoon Network
+http://85.14.32.26:8800/udp/239.100.10.33:5000
+#EXTINF:-1 group-title="BG - BG 12",CGTN
+http://85.14.32.26:8800/udp/239.100.10.34:5000
+#EXTINF:-1 group-title="BG - BG 12",CITY TV
+http://85.14.32.26:8800/udp/239.100.10.35:5000
+#EXTINF:-1 group-title="BG - BG 12",CNN
+http://85.14.32.26:8800/udp/239.100.10.36:5000
+#EXTINF:-1 group-title="BG - BG 12",Discovery Channel
+http://85.14.32.26:8800/udp/239.100.10.37:5000
+#EXTINF:-1 group-title="BG - BG 12",DM Sat
+http://85.14.32.26:8800/udp/239.100.10.40:5000
+#EXTINF:-1 group-title="BG - BG 12",DSTV
+http://85.14.32.26:8800/udp/239.100.10.41:5000
+#EXTINF:-1 group-title="BG - BG 12",DW SD
+http://85.14.32.26:8800/udp/239.100.10.42:5000
+#EXTINF:-1 group-title="BG - BG 12",EKids
+http://85.14.32.26:8800/udp/239.100.10.44:5000
+#EXTINF:-1 group-title="BG - BG 12",Eurosport
+http://85.14.32.26:8800/udp/239.100.10.45:5000
+#EXTINF:-1 group-title="BG - BG 12",Eurosport 2
+http://85.14.32.26:8800/udp/239.100.10.46:5000
+#EXTINF:-1 group-title="BG - BG 12",Evrokom
+http://85.14.32.26:8800/udp/239.100.10.47:5000
+#EXTINF:-1 group-title="BG - BG 12",Fen Folk TV
+http://85.14.32.26:8800/udp/239.100.10.48:5000
+#EXTINF:-1 group-title="BG - BG 12",FEN TV
+http://85.14.32.26:8800/udp/239.100.10.49:5000
+#EXTINF:-1 group-title="BG - BG 12",Fen TV HD
+http://85.14.32.26:8800/udp/239.100.10.50:5000
+#EXTINF:-1 group-title="BG - BG 12",Folklor TV
+http://85.14.32.26:8800/udp/239.100.10.52:5000
+#EXTINF:-1 group-title="BG - BG 12",STAR Channel
+http://85.14.32.26:8800/udp/239.100.10.53:5000
+#EXTINF:-1 group-title="BG - BG 12",STAR Crime
+http://85.14.32.26:8800/udp/239.100.10.54:5000
+#EXTINF:-1 group-title="BG - BG 12",STAR Life
+http://85.14.32.26:8800/udp/239.100.10.55:5000
+#EXTINF:-1 group-title="BG - BG 12",HBO HD
+http://85.14.32.26:8800/udp/239.100.10.57:5000
+#EXTINF:-1 group-title="BG - BG 12",Hustler HD
+http://85.14.32.26:8800/udp/239.100.10.58:5000
+#EXTINF:-1 group-title="BG - BG 12",Nova News
+http://85.14.32.26:8800/udp/239.100.10.63:5000
+#EXTINF:-1 group-title="BG - BG 12",Kino Nova
+http://85.14.32.26:8800/udp/239.100.10.64:5000
+#EXTINF:-1 group-title="BG - BG 12",MTV
+http://85.14.32.26:8800/udp/239.100.10.67:5000
+#EXTINF:-1 group-title="BG - BG 12",NatGeo Wild
+http://85.14.32.26:8800/udp/239.100.10.68:5000
+#EXTINF:-1 group-title="BG - BG 12",National Geographic
+http://85.14.32.26:8800/udp/239.100.10.69:5000
+#EXTINF:-1 group-title="BG - BG 12",Nat Geo Wild HD
+http://85.14.32.26:8800/udp/239.100.10.70:5000
+#EXTINF:-1 group-title="BG - BG 12",Planeta Folk
+http://85.14.32.26:8800/udp/239.100.10.74:5000
+#EXTINF:-1 group-title="BG - BG 12",Planeta TV
+http://85.14.32.26:8800/udp/239.100.10.75:5000
+#EXTINF:-1 group-title="BG - BG 12",ProSieben
+http://85.14.32.26:8800/udp/239.100.10.76:5000
+#EXTINF:-1 group-title="BG - BG 12",Roma TV HD
+http://85.14.32.26:8800/udp/239.100.10.80:5000
+#EXTINF:-1 group-title="BG - BG 12",RING.BG
+http://85.14.32.26:8800/udp/239.100.10.81:5000
+#EXTINF:-1 group-title="BG - BG 12",RING.BG HD
+http://85.14.32.26:8800/udp/239.100.10.82:5000
+#EXTINF:-1 group-title="BG - BG 12",RTL Television
+http://85.14.32.26:8800/udp/239.100.10.83:5000
+#EXTINF:-1 group-title="BG - BG 12",SKAT
+http://85.14.32.26:8800/udp/239.100.10.91:5000
+#EXTINF:-1 group-title="BG - BG 12",The Voice
+http://85.14.32.26:8800/udp/239.100.10.93:5000
+#EXTINF:-1 group-title="BG - BG 12",Tiankov Folk
+http://85.14.32.26:8800/udp/239.100.10.94:5000
+#EXTINF:-1 group-title="BG - BG 12",Tiankov Folk HD
+http://85.14.32.26:8800/udp/239.100.10.95:5000
+#EXTINF:-1 group-title="BG - BG 12",Tiankov Orient Folk
+http://85.14.32.26:8800/udp/239.100.10.96:5000
+#EXTINF:-1 group-title="BG - BG 12",TLC
+http://85.14.32.26:8800/udp/239.100.10.97:5000
+#EXTINF:-1 group-title="BG - BG 12",Euronews Bulgaria
+http://85.14.32.26:8800/udp/239.100.10.98:5000
+#EXTINF:-1 group-title="BG - BG 12",TV1
+http://85.14.32.26:8800/udp/239.100.10.99:5000
+#EXTINF:-1 group-title="BG - BG 12",TV1000
+http://85.14.32.26:8800/udp/239.100.10.100:5000
+#EXTINF:-1 group-title="BG - BG 12",TV5MONDE EUROPE
+http://85.14.32.26:8800/udp/239.100.10.101:5000
+#EXTINF:-1 group-title="BG - BG 12",ORF 2 EUROPE HD
+http://85.14.32.26:8800/udp/239.100.10.102:5000
+#EXTINF:-1 group-title="BG - BG 12",TVT Tourism SD
+http://85.14.32.26:8800/udp/239.100.10.104:5000
+#EXTINF:-1 group-title="BG - BG 12",Viasat Explore
+http://85.14.32.26:8800/udp/239.100.10.106:5000
+#EXTINF:-1 group-title="BG - BG 12",Viasat History
+http://85.14.32.26:8800/udp/239.100.10.107:5000
+#EXTINF:-1 group-title="BG - BG 12",Viasat Nature
+http://85.14.32.26:8800/udp/239.100.10.108:5000
+#EXTINF:-1 group-title="BG - BG 12",Viasat History HD
+http://85.14.32.26:8800/udp/239.100.10.109:5000
+#EXTINF:-1 group-title="BG - BG 12",VTK
+http://85.14.32.26:8800/udp/239.100.10.110:5000
+#EXTINF:-1 group-title="BG - BG 12",Rodina TV
+http://85.14.32.26:8800/udp/239.100.10.114:5000
+#EXTINF:-1 group-title="BG - BG 12",Kabel Eins
+http://85.14.32.26:8800/udp/239.100.10.115:5000
+#EXTINF:-1 group-title="BG - BG 12",France 24 HD
+http://85.14.32.26:8800/udp/239.100.10.116:5000
+#EXTINF:-1 group-title="BG - BG 12",PHOENIX HD
+http://85.14.32.26:8800/udp/239.100.10.117:5000
+#EXTINF:-1 group-title="BG - BG 12",FilmBox Arthouse
+http://85.14.32.26:8800/udp/239.100.10.119:5000
+#EXTINF:-1 group-title="BG - BG 12",SAT.1
+http://85.14.32.26:8800/udp/239.100.10.120:5000
+#EXTINF:-1 group-title="BG - BG 12",CodeHealth TV
+http://85.14.32.26:8800/udp/239.100.10.123:5000
+#EXTINF:-1 group-title="BG - BG 12",TRT TURK
+http://85.14.32.26:8800/udp/239.100.10.125:5000
+#EXTINF:-1 group-title="BG - BG 12",This is Bulgaria HD
+http://85.14.32.26:8800/udp/239.100.10.126:5000
+#EXTINF:-1 group-title="BG - BG 12",Travel TV
+http://85.14.32.26:8800/udp/239.100.10.127:5000
+#EXTINF:-1 group-title="BG - BG 12",Agro TV
+http://85.14.32.26:8800/udp/239.100.10.128:5000
+#EXTINF:-1 group-title="BG - BG 12",Viasat Nature HD
+http://85.14.32.26:8800/udp/239.100.10.136:5000
+#EXTINF:-1 group-title="BG - BG 12",Fashion Box HD
+http://85.14.32.26:8800/udp/239.100.10.138:5000
+#EXTINF:-1 group-title="BG - BG 12",Rai News 24 HD
+http://85.14.32.26:8800/udp/239.100.10.139:5000
+#EXTINF:-1 group-title="BG - BG 12",Rai 1 HD
+http://85.14.32.26:8800/udp/239.100.10.141:5000
+#EXTINF:-1 group-title="BG - BG 12",Rai 2 HD
+http://85.14.32.26:8800/udp/239.100.10.142:5000
+#EXTINF:-1 group-title="BG - BG 12",Rai 3 HD
+http://85.14.32.26:8800/udp/239.100.10.143:5000
+#EXTINF:-1 group-title="BG - BG 12",France 3 HD
+http://85.14.32.26:8800/udp/239.100.10.144:5000
+#EXTINF:-1 group-title="BG - BG 12",France 4 HD
+http://85.14.32.26:8800/udp/239.100.10.145:5000
+#EXTINF:-1 group-title="BG - BG 12",BFM TV HD
+http://85.14.32.26:8800/udp/239.100.10.146:5000
+#EXTINF:-1 group-title="BG - BG 12",Discovery Channel HD
+http://85.14.32.26:8800/udp/239.100.10.147:5000
+#EXTINF:-1 group-title="BG - BG 12",Baby TV
+http://85.14.32.26:8800/udp/239.100.10.149:5000
+#EXTINF:-1 group-title="BG - BG 12",Euronews
+http://85.14.32.26:8800/udp/239.100.10.153:5000
+#EXTINF:-1 group-title="BG - BG 12",Eurosport 1 HD
+http://85.14.32.26:8800/udp/239.100.10.154:5000
+#EXTINF:-1 group-title="BG - BG 12",History Channel
+http://85.14.32.26:8800/udp/239.100.10.157:5000
+#EXTINF:-1 group-title="BG - BG 12",History Channel HD
+http://85.14.32.26:8800/udp/239.100.10.158:5000
+#EXTINF:-1 group-title="BG - BG 12",Moviestar
+http://85.14.32.26:8800/udp/239.100.10.160:5000
+#EXTINF:-1 group-title="BG - BG 12",TGCom24 HD
+http://85.14.32.26:8800/udp/239.100.10.161:5000
+#EXTINF:-1 group-title="BG - BG 12",Planeta HD
+http://85.14.32.26:8800/udp/239.100.10.162:5000
+#EXTINF:-1 group-title="BG - BG 12",RTL2
+http://85.14.32.26:8800/udp/239.100.10.163:5000
+#EXTINF:-1 group-title="BG - BG 12",SUPER RTL Austria
+http://85.14.32.26:8800/udp/239.100.10.164:5000
+#EXTINF:-1 group-title="BG - BG 12",VOX Austria
+http://85.14.32.26:8800/udp/239.100.10.166:5000
+#EXTINF:-1 group-title="BG - BG 12",Охота и рыбалка
+http://85.14.32.26:8800/udp/239.100.10.167:5000
+#EXTINF:-1 group-title="BG - BG 12",Nat Geo HD
+http://85.14.32.26:8800/udp/239.100.10.169:5000
+#EXTINF:-1 group-title="BG - BG 12",TV Polonia
+http://85.14.32.26:8800/udp/239.100.10.170:5000
+#EXTINF:-1 group-title="BG - BG 12",BBC News Europe
+http://85.14.32.26:8800/udp/239.100.10.177:5000
+#EXTINF:-1 group-title="BG - BG 12",FilmBox Stars
+http://85.14.32.26:8800/udp/239.100.10.180:5000
+#EXTINF:-1 group-title="BG - BG 12",Travel Channel
+http://85.14.32.26:8800/udp/239.100.10.181:5000
+#EXTINF:-1 group-title="BG - BG 12",Tiankov Orient Folk HD
+http://85.14.32.26:8800/udp/239.100.10.182:5000
+#EXTINF:-1 group-title="BG - BG 12",SHOW TV
+http://85.14.32.26:8800/udp/239.100.10.184:5000
+#EXTINF:-1 group-title="BG - BG 12",The Voice HD
+http://85.14.32.26:8800/udp/239.100.10.185:5000
+#EXTINF:-1 group-title="BG - BG 12",Super Toons
+http://85.14.32.26:8800/udp/239.100.10.187:5000
+#EXTINF:-1 group-title="BG - BG 12",CNBC Europe HD
+http://85.14.32.26:8800/udp/239.100.10.186:5000
+#EXTINF:-1 group-title="BG - BG 12",Super Toons HD
+http://85.14.32.26:8800/udp/239.100.10.188:5000
+#EXTINF:-1 group-title="BG - BG 12",Travel Channel HD
+http://85.14.32.26:8800/udp/239.100.10.191:5000
+#EXTINF:-1 group-title="BG - BG 12",Disney Junior
+http://85.14.32.26:8800/udp/239.100.10.192:5000
+#EXTINF:-1 group-title="BG - BG 12",Пловдивска православна ТВ
+http://85.14.32.26:8800/udp/239.100.10.193:5000
+#EXTINF:-1 group-title="BG - BG 12",HBO 3 HD
+http://85.14.32.26:8800/udp/239.100.10.195:5000
+#EXTINF:-1 group-title="BG - BG 12",ERT Cosmos
+http://85.14.32.26:8800/udp/239.100.10.196:5000
+#EXTINF:-1 group-title="BG - BG 12",Fix
+http://85.14.32.26:8800/udp/239.100.10.198:5000
+#EXTINF:-1 group-title="BG - BG 12",Hit Mix Music
+http://85.14.32.26:8800/udp/239.100.10.199:5000
+#EXTINF:-1 group-title="BG - BG 12",PRO TV International
+http://85.14.32.26:8800/udp/239.100.10.209:5000
+#EXTINF:-1 group-title="BG - BG 12",ERT 1
+http://85.14.32.26:8800/udp/239.100.10.210:5000
+#EXTINF:-1 group-title="BG - BG 12",ERT 2
+http://85.14.32.26:8800/udp/239.100.10.211:5000
+#EXTINF:-1 group-title="BG - BG 12",ERT 3
+http://85.14.32.26:8800/udp/239.100.10.212:5000
+#EXTINF:-1 group-title="BG - BG 12",Vouli TV
+http://85.14.32.26:8800/udp/239.100.10.214:5000
+#EXTINF:-1 group-title="BG - BG 12",Classical Harmony HD
+http://85.14.32.26:8800/udp/239.100.10.223:5000
+#EXTINF:-1 group-title="BG - BG 12",7_8 TV
+http://85.14.32.26:8800/udp/239.100.10.227:5000
+#EXTINF:-1 group-title="BG - BG 12",7_8 TV HD
+http://85.14.32.26:8800/udp/239.100.10.228:5000
+#EXTINF:-1 group-title="BG - BG 12",Planeta 4K UHD
+http://85.14.32.26:8800/udp/239.100.10.229:5000
+#EXTINF:-1 group-title="BG - BG 12",Kanal 3
+http://85.14.32.26:8800/udp/239.100.10.234:5000
+#EXTINF:-1 group-title="BG - BG 12",Kanal 3 HD
+http://85.14.32.26:8800/udp/239.100.10.235:5000
+#EXTINF:-1 group-title="BG - BG 12",Soul and Pepper
+http://85.14.32.26:8800/udp/239.100.10.236:5000
+#EXTINF:-1 group-title="BG - BG 12",Agro TV HD
+http://85.14.32.26:8800/udp/239.100.10.237:5000
+#bg12
+
+#bg13
+#EXTINF:-1 group-title="BG - BG 13",BNT 1
+http://62.176.112.19:8008/play/a046
+#EXTINF:-1 group-title="BG - BG 13",BNT 3
+http://62.176.112.19:8008/play/a063
+#EXTINF:-1 group-title="BG - BG 13",BNT 4
+http://62.176.112.19:8008/play/a0e5
+#EXTINF:-1 group-title="BG - BG 13",bTV
+http://62.176.112.19:8008/play/a03w
+#EXTINF:-1 group-title="BG - BG 13",Nova
+http://62.176.112.19:8008/play/a0cx
+#EXTINF:-1 group-title="BG - BG 13",BTV Story
+http://62.176.112.19:8008/play/a049
+#EXTINF:-1 group-title="BG - BG 13",NovaNews
+http://62.176.112.19:8008/play/a08x
+#EXTINF:-1 group-title="BG - BG 13",Diema
+http://62.176.112.19:8008/play/a0e0
+#EXTINF:-1 group-title="BG - BG 13",Kino Nova
+http://62.176.112.19:8008/play/a0dz
+#EXTINF:-1 group-title="BG - BG 13",bTV Action
+http://62.176.112.19:8008/play/a04n
+#EXTINF:-1 group-title="BG - BG 13",bTV Cinema
+http://62.176.112.19:8008/play/a04i
+#EXTINF:-1 group-title="BG - BG 13",bTV Comedy
+http://62.176.112.19:8008/play/a04k
+#EXTINF:-1 group-title="BG - BG 13",Euronews Bulgaria
+http://62.176.112.19:8008/play/a0e3
+#EXTINF:-1 group-title="BG - BG 13",TV1000
+http://62.176.112.19:8008/play/a0en
+#EXTINF:-1 group-title="BG - BG 13",MAX Sport 1
+http://62.176.112.19:8008/play/a0be
+#EXTINF:-1 group-title="BG - BG 13",MAX Sport 2
+http://62.176.112.19:8008/play/a0bf
+#EXTINF:-1 group-title="BG - BG 13",MAX Sport 3
+http://62.176.112.19:8008/play/a0bg
+#EXTINF:-1 group-title="BG - BG 13",Max Sport 4
+http://62.176.112.19:8008/play/a0d6
+#EXTINF:-1 group-title="BG - BG 13",Diema Sport
+http://62.176.112.19:8008/play/a0bc
+#EXTINF:-1 group-title="BG - BG 13",Diema Sport 2
+http://62.176.112.19:8008/play/a0bd
+#EXTINF:-1 group-title="BG - BG 13",Diema Sport 3
+http://62.176.112.19:8008/play/a0cj
+#EXTINF:-1 group-title="BG - BG 13",Eurosport
+http://62.176.112.19:8008/play/a0bb
+#EXTINF:-1 group-title="BG - BG 13",Eurosport 2
+http://62.176.112.19:8008/play/a04b
+#EXTINF:-1 group-title="BG - BG 13",RING
+http://62.176.112.19:8008/play/a0bo
+#EXTINF:-1 group-title="BG - BG 13",FilmBox
+http://62.176.112.19:8008/play/a0cz
+#EXTINF:-1 group-title="BG - BG 13",FilmBox Extra
+http://62.176.112.19:8008/play/a0c4
+#EXTINF:-1 group-title="BG - BG 13",Discovery Channel
+http://62.176.112.19:8008/play/a044
+#EXTINF:-1 group-title="BG - BG 13",Animal Planet
+http://62.176.112.19:8008/play/a05r
+#EXTINF:-1 group-title="BG - BG 13",Viasat History
+http://62.176.112.19:8008/play/a0bq
+#EXTINF:-1 group-title="BG - BG 13",National Geographic
+http://62.176.112.19:8008/play/a0bt
+#EXTINF:-1 group-title="BG - BG 13",City TV
+http://62.176.112.19:8008/play/a0dy
+#EXTINF:-1 group-title="BG - BG 13",Nick Jr
+http://62.176.112.19:8008/play/a05k
+#EXTINF:-1 group-title="BG - BG 13",Epic Drama
+http://62.176.112.19:8008/play/a056
+#EXTINF:-1 group-title="BG - BG 13",Bulgaria 24
+http://62.176.112.19:8008/play/a0da
+#EXTINF:-1 group-title="BG - BG 13",DocuBox
+http://62.176.112.19:8008/play/a05n
+#EXTINF:-1 group-title="BG - BG 13",Just Fishing
+http://62.176.112.19:8008/play/a0c9
+#EXTINF:-1 group-title="BG - BG 13",Deluxe Dance
+http://62.176.112.19:8008/play/a0e2
+#EXTINF:-1 group-title="BG - BG 13",Planeta TV
+http://62.176.112.19:8008/play/a03t
+#EXTINF:-1 group-title="BG - BG 13",Bulgaria 24
+http://62.176.112.19:8008/play/a0ew
+#EXTINF:-1 group-title="BG - BG 13",Bulgaria On Air
+http://62.176.112.19:8008/play/a0ex
+#EXTINF:-1 group-title="BG - BG 13",Epic Drama
+http://62.176.112.19:8008/play/a0f0
+#EXTINF:-1 group-title="BG - BG 13",Evrokom
+http://62.176.112.19:8008/play/a0es
+#EXTINF:-1 group-title="BG - BG 13",NOVA
+http://62.176.112.19:8008/play/a0f6
+#EXTINF:-1 group-title="BG - BG 13",NOVA
+http://62.176.112.19:8008/play/a0f7
+#EXTINF:-1 group-title="BG - BG 13",Nova
+http://62.176.112.19:8008/play/a0f5
+#bg13
+
+#bgweb
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",BNT 1
+http://185.97.73.187:11000/play/bnt1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",BNT 1 HD
+http://185.97.73.187:11000/play/bnt1hd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",BNT 1 Vivacom
+http://212.25.55.242:9094/at/b3e62ae990f9544bbb17a8be3a76b3ac/1707803848/bnt1.ts
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",BNT 2
+http://hls127.freeott.top:8080/BG_BNT_2_HD/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",BNT 3
+http://hls127.freeott.top:8080/BG_BNT_3_HD/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",BNT 4
+http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",Nova
+http://185.97.73.187:11000/play/nova/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",,Nova HD
+http://185.97.73.187:11000/play/novahd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",,Planeta 4K
+http://185.97.73.187:11000/play/planeta4k/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",,bTV
+http://185.97.73.187:11000/play/btv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",,bTV HD
+http://185.97.73.187:11000/play/btvhd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",TV Zagora
+http://zagoratv.ddns.net:8080/tvzagora.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",This is Bulgaria SD
+https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_SD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",This is Bulgaria HD
+https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",Travel TV SD
+https://streamer103.neterra.tv/travel/travel_SD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",Travel TV HD
+https://streamer103.neterra.tv/travel/travel_LQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",DSTV
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",City TV
+https://tv.city.bg/play/tshls/citytv/2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",Magic TV
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",The  Voice
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",Tiankov Folk SD
+https://streamer103.neterra.tv/tiankov-folk/tiankov-folk_SD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",Tiankov Folk HD
+https://streamer103.neterra.tv/tiankov-folk/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",Tiankov Orient Folk
+https://streamer103.neterra.tv/tiankov-orient/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",Agro TV
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",Hope Channel Bulgaria
+https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",Light Channel
+https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",Plovdiv Orthodox TV
+http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",PPTV IP
+http://79.124.21.250:8199/play/PPTV/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",TV Shumen
+https://www.tvshumen.tv/hls/stream1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",RMTV
+https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",Kanal 0
+http://old.rn-tv.com/k0/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",Code Health
+https://cdn2.invivo.bg/codehealth_test/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",EVROKOM HD
+https://ektzarevets.invivo.bg/EVROKOM_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",VTV
+https://live.vtv.mk/live/vtv/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",VTV SD
+http://185.193.240.245:8000/play/a00b
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",TV1
+https://tv1.cloudcdn.bg/temp/livestream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BG - Channels",TV Spravedliva Bulgaria
+https://tv.tvsb.bg/112.m3u8
+#bgweb
+
+#Radio
+#EXTINF:-1 tvg-name="BTV Radio" group-title="BG - Radio", BTV Radio
+http://live.btvradio.bg/btv-radio.mp3
+#EXTINF:-1 tvg-name="Radio 1" group-title="BG - Radio", Radio 1
+http://stream81.metacast.eu/radio1128
+#EXTINF:-1 tvg-name="Radio 1 Rock" group-title="BG - Radio", Radio 1 Rock
+http://stream81.metacast.eu/radio1rock128
+#EXTINF:-1 tvg-name="Radio" group-title="BG - Radio", Radio
+http://stream81.metacast.eu/bgradio128
+#EXTINF:-1 tvg-name="Radio Estrada" group-title="BG - Radio", Radio Estrada
+http://stream81.metacast.eu/bgestrada
+#EXTINF:-1 tvg-name="Radio Classic FM" group-title="BG - Radio", Radio Classic FM
+http://live.btvradio.bg/classic-fm.mp3
+#EXTINF:-1 tvg-name="Radio Chanove" group-title="BG - Radio", Radio Chanove
+http://radio.chanove.com:8000/stream
+#EXTINF:-1 tvg-name="Radio City" group-title="BG - Radio", Radio City
+http://stream81.metacast.eu/city128
+#EXTINF:-1 tvg-name="Radio City-HipHop & RNB" group-title="BG - Radio", Radio City-HipHop & RNB
+http://stream81.metacast.eu/cityrabhi.aac
+#EXTINF:-1 tvg-name="Radio City-Kpop" group-title="BG - Radio", Radio City-Kpop
+http://stream81.metacast.eu/citykpophi.aac
+#EXTINF:-1 tvg-name="Radio City-Latin" group-title="BG - Radio", Radio City-Latin
+http://stream81.metacast.eu/citylatinhi.aac
+#EXTINF:-1 tvg-name="Radio Classic FM" group-title="BG - Radio", Radio Classic FM
+http://live.btvradio.bg/classic-fm.mp3
+#EXTINF:-1 tvg-name="Radio Focus" group-title="BG - Radio", Radio Focus
+https://focusradio.dataserv.cc/1
+#EXTINF:-1 tvg-name="Radio Fresh FM" group-title="BG - Radio", Radio Fresh FM
+http://193.108.24.21:8000/fresh
+#EXTINF:-1 tvg-name="Radio Gama" group-title="BG - Radio", Radio Gama
+http://g5.turbohost.eu:8003/gama128
+#EXTINF:-1 tvg-name="Radio Jazz FM" group-title="BG - Radio", Radio Jazz FM
+http://live.btvradio.bg/jazz-fm.mp3
+#EXTINF:-1 tvg-name="Radio Magic FM" group-title="BG - Radio", Radio Magic FM
+https://bss1.neterra.tv/magicfm/magicfm.m3u8
+#EXTINF:-1 tvg-name="Radio Mix" group-title="BG - Radio", Radio Mix
+http://g5.turbohost.eu:8008/stream
+#EXTINF:-1 tvg-name="Radio N-Joy" group-title="BG - Radio", Radio N-Joy
+http://live.btvradio.bg/njoy.mp3
+#EXTINF:-1 tvg-name="Radio NRJ" group-title="BG - Radio", Radio NRJ
+http://stream81.metacast.eu/nrj128
+#EXTINF:-1 tvg-name="Radio NRJ - 00s" group-title="BG - Radio", Radio NRJ - 00s
+http://stream81.metacast.eu/energy-00shi.aac
+#EXTINF:-1 tvg-name="Radio NRJ - 90s" group-title="BG - Radio", Radio NRJ - 90s
+http://stream81.metacast.eu/energy-90s
+#EXTINF:-1 tvg-name="Radio Nova" group-title="BG - Radio", Radio Nova
+http://stream81.metacast.eu/nova128
+#EXTINF:-1 tvg-name="Radio Power FM" group-title="BG - Radio", Radio Power FM
+http://a2.virtualradio.eu:8000/powerfm.mp3
+#EXTINF:-1 tvg-name="Radio TV 999" group-title="BG - Radio", Radio TV 999
+https://radio999bg.com:8080/live
+#EXTINF:-1 tvg-name="Radio Tangra Mega Rock" group-title="BG - Radio", Radio Tangra Mega Rock
+http://stream-03.radiotangra.com:8000/Tangra-high
+#EXTINF:-1 tvg-name="Radio Teteven" group-title="BG - Radio", Radio Teteven
+http://g5.turbohost.eu:8001/teteven
+#EXTINF:-1 tvg-name="Radio The Voice" group-title="BG - Radio", Radio The Voice
+https://bss1.neterra.tv/thevoicefm/thevoicefm.m3u8
+#EXTINF:-1 tvg-name="Radio VIVA" group-title="BG - Radio", Radio VIVA
+http://stream.radioextra-bg.net:8000/viva.mp3
+#EXTINF:-1 tvg-name="Radio Veronika" group-title="BG - Radio", Radio Veronika
+http://stream81.metacast.eu/veronika128
+#EXTINF:-1 tvg-name="Radio Veselina" group-title="BG - Radio", Radio Veselina
+https://bss1.neterra.tv/veselina/veselina.m3u8
+#EXTINF:-1 tvg-name="Radio Vitosha" group-title="BG - Radio", Radio Vitosha
+https://bss1.neterra.tv/vitosha/vitosha.m3u8
+#EXTINF:-1 tvg-name="Radio Z-Rock" group-title="BG - Radio", Radio Z-Rock
+http://live.btvradio.bg/z-rock.mp3
+#EXTINF:-1 tvg-name="АвтоРадио" group-title="BG - Radio", АвтоРадио
+http://stream81.metacast.eu/avtoradio.mp3
+#Radio
+
+#88
+#EXTINF:-1 group-title="BG - GE Sports",Diema Sport HD
+http://45.9.44.143:5020/play/a038/index.m3u8
+#EXTINF:-1 group-title="BG - GE Sports",Diema Sport 2 HD
+http://45.9.44.143:5020/play/a03a/index.m3u8
+#EXTINF:-1 group-title="BG - GE Sports",MAX Sport 1 HD
+http://45.9.44.143:5020/play/1f0a/index.m3u8
+#EXTINF:-1 group-title="BG - GE Sports",MAX Sport 2 HD
+http://45.9.44.143:5020/play/rvgu/index.m3u8
+#EXTINF:-1 group-title="BG - GE Sports",MAX Sport 3 HD
+http://45.9.44.143:5020/play/yuk1/index.m3u8
+#EXTINF:-1 group-title="BG - GE Sports",MAX Sport 4 HD
+#88
+
+#89
+#EXTINF:-1 tvg-logo="" group-title="BG - RS Sports",Max Sport 1
+http://77.46.130.252:99/maxsport1
+#EXTINF:-1 tvg-logo="" group-title="BG - RS Sports",Max Sport 2
+http://77.46.130.252:99/maxsport2
+#EXTINF:-1 tvg-logo="" group-title="BG - RS Sports",Max Sport 3
+http://77.46.130.252:99/maxsport3
+#EXTINF:-1 tvg-logo="" group-title="BG - RS Sports",Max Sport 4
+http://77.46.130.252:99/maxsport4
+#EXTINF:-1 tvg-logo="" group-title="BG - RS Sports",Diema Sport 1
+http://77.46.130.252:99/diema1
+#EXTINF:-1 tvg-logo="" group-title="BG - RS Sports",Diema Sport 2
+http://77.46.130.252:99/diema2
+#EXTINF:-1 tvg-logo="" group-title="BG - RS Sports",Diema Sport 3
+http://77.46.130.252:99/diema3
+#89
+
+#BG-sports5
+#EXTINF:-1 group-title="BG - Sports 5",Diema Sport HD
+http://77.76.8.12:82/diemasport/mpegts
+#EXTINF:-1 group-title="BG - Sports 5",Diema Sport 2 HD
+http://77.76.8.12:82/diemasport2/mpegts
+#EXTINF:-1 group-title="BG - Sports 5",Diema Sport 3 HD
+#BG-sports5
+
+#BG-sports6
+#EXTINF:-1 group-title="BG - Sports 6",Diema Sport 1
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AF:3B:AD&stream=228723&extension=ts&play_token=gTUlga7jJ2
+#EXTINF:-1 group-title="BG - Sports 6",Diema Sport 2
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AF:3B:AD&stream=228722&extension=ts&play_token=WoAcCzkuDL
+#EXTINF:-1 group-title="BG - Sports 6",Diema Sport 3
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AF:3B:AD&stream=228721&extension=ts&play_token=7BaZf5p7BW
+#EXTINF:-1 group-title="BG - Sports 6",MAX Sport 1
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AF:3B:AD&stream=228727&extension=ts&play_token=OlOwtaoQGg
+#EXTINF:-1 group-title="BG - Sports 6",MAX Sport 2
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AF:3B:AD&stream=228726&extension=ts&play_token=429w5QtrPA
+#EXTINF:-1 group-title="BG - Sports 6",MAX Sport 3
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AF:3B:AD&stream=228725&extension=ts&play_token=RMxTikdRsF
+#EXTINF:-1 group-title="BG - Sports 6",MAX Sport 4
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AF:3B:AD&stream=228724&extension=ts&play_token=USNglakCig
+#BG-sports
+
+#133
+http://213.169.39.30:5086
+#EXTINF:-1 group-title="BG - FIN",BNT 2
+http://213.169.39.30:5124
+#EXTINF:-1 group-title="BG - FIN",BNT 3
+http://213.169.39.30:5144
+#EXTINF:-1 group-title="BG - FIN",BNT 4
+http://213.169.39.30:5235
+#EXTINF:-1 group-title="BG - FIN",Nova
+http://213.169.39.30:5092
+#EXTINF:-1 group-title="BG - FIN",nova sport
+http://213.169.39.30:5102
+#EXTINF:-1 group-title="BG - FIN",Nova News
+http://213.169.39.30:5041
+#EXTINF:-1 group-title="BG - FIN",Kino Nova
+http://213.169.39.30:5083
+#EXTINF:-1 group-title="BG - FIN",BTV
+http://213.169.39.30:5205
+#EXTINF:-1 group-title="BG - FIN",btv action
+http://213.169.39.30:5212
+#EXTINF:-1 group-title="BG - FIN",btv cinema
+http://213.169.39.30:5111
+#EXTINF:-1 group-title="BG - FIN",BTV Comedy
+http://213.169.39.30:5117
+#EXTINF:-1 group-title="BG - FIN",BTV story
+http://213.169.39.30:5049
+#EXTINF:-1 group-title="BG - FIN",Diema
+http://213.169.39.30:5096
+#EXTINF:-1 group-title="BG - FIN",Diema Sport
+http://213.169.39.30:5134
+#EXTINF:-1 group-title="BG - FIN",Diema Sport 2
+http://213.169.39.30:5136
+#EXTINF:-1 group-title="BG - FIN",Diema Sport 3
+http://213.169.39.30:5216
+#EXTINF:-1 group-title="BG - FIN",Max Sport 1 HD
+http://213.169.39.30:5138
+#EXTINF:-1 group-title="BG - FIN",Max Sport 2 HD
+http://213.169.39.30:5140
+#EXTINF:-1 group-title="BG - FIN",Max Sport 3 HD
+http://213.169.39.30:5142
+#EXTINF:-1 group-title="BG - FIN",Max Sport 4 HD
+http://213.169.39.30:5130
+#EXTINF:-1 group-title="BG - FIN",Ping
+http://213.169.39.30:5210
+#EXTINF:-1 group-title="BG - FIN",Vivacom Arena
+http://213.169.39.30:5201
+#EXTINF:-1 group-title="BG - FIN",Movie star
+http://213.169.39.30:5204
+#EXTINF:-1 group-title="BG - FIN",Start Channel
+http://213.169.39.30:5035
+#EXTINF:-1 group-title="BG - FIN",Sine Star
+http://213.169.39.30:5037
+#EXTINF:-1 group-title="BG - FIN",Sine Star action
+http://213.169.39.30:5046
+#EXTINF:-1 group-title="BG - FIN",pickbox
+http://213.169.39.30:5200
+#EXTINF:-1 group-title="BG - FIN",Cinemania
+http://213.169.39.30:5238
+#EXTINF:-1 group-title="BG - FIN",filmbox stars
+http://213.169.39.30:5250
+#EXTINF:-1 group-title="BG - FIN",filmbox extra
+http://213.169.39.30:5214
+#EXTINF:-1 group-title="BG - FIN",skat tv
+http://213.169.39.30:5104
+#EXTINF:-1 group-title="BG - FIN",DF
+http://213.169.39.30:5109
+#EXTINF:-1 group-title="BG - FIN",on air
+http://213.169.39.30:5014
+#EXTINF:-1 group-title="BG - FIN",78 tv
+http://213.169.39.30:5018
+#EXTINF:-1 group-title="BG - FIN",Animal planet
+http://213.169.39.30:5024
+#EXTINF:-1 group-title="BG - FIN",Flok tv
+http://213.169.39.30:5030
+#EXTINF:-1 group-title="BG - FIN",City 
+http://213.169.39.30:5032
+#EXTINF:-1 group-title="BG - FIN",Folklor TV
+http://213.169.39.30:5038
+#EXTINF:-1 group-title="BG - FIN",FEN TV
+http://213.169.39.30:5043
+#EXTINF:-1 group-title="BG - FIN",Balkanika
+http://213.169.39.30:5047
+#EXTINF:-1 group-title="BG - FIN",Da Vince
+http://213.169.39.30:5081
+#EXTINF:-1 group-title="BG - FIN",The Voice
+http://213.169.39.30:5084
+#EXTINF:-1 group-title="BG - FIN",Bloomberg
+http://213.169.39.30:5090
+#EXTINF:-1 group-title="BG - FIN",Crime
+http://213.169.39.30:5098
+#EXTINF:-1 group-title="BG - FIN",MTV
+http://213.169.39.30:5202
+#EXTINF:-1 group-title="BG - FIN",MTV 90s
+http://213.169.39.30:5203
+#EXTINF:-1 group-title="BG - FIN",BG+
+http://213.169.39.30:5207
+#EXTINF:-1 group-title="BG - FIN",Argo TV
+http://213.169.39.30:5209
+#EXTINF:-1 group-title="BG - FIN",Planeta HD
+http://213.169.39.30:5217
+#EXTINF:-1 group-title="BG - FIN",amc
+http://213.169.39.30:5231
+#EXTINF:-1 group-title="BG - FIN",BG music
+http://213.169.39.30:5234
+#EXTINF:-1 group-title="BG - FIN",DSTV
+http://213.169.39.30:5244
+#EXTINF:-1 group-title="BG - FIN",hit mix music
+http://213.169.39.30:5253
+#EXTINF:-1 group-title="BG - FIN",History 
+http://213.169.39.30:5254
+#EXTINF:-1 group-title="BG - FIN",EK
+http://213.169.39.30:5259
+#EXTINF:-1 group-title="BG - FIN",Travel TV
+http://213.169.39.30:5266
+#EXTINF:-1 group-title="BG - FIN",BTK
+http://213.169.39.30:5270
+#EXTINF:-1 group-title="BG - FIN",24 Kitchen
+http://213.169.39.30:5003
+#EXTINF:-1 group-title="BG - FIN",Bulgaria 24
+http://213.169.39.30:5141
+#133
+
+#134
+#EXTINF:-1 group-title="BG - US",BNT 1
+http://hls127.freeott.top:8080/BG_BNT_1/video.m3u8
+#EXTINF:-1 group-title="BG - US",BNT 2
+http://hls127.freeott.top:8080/BG_BNT_2_HD/video.m3u8
+#EXTINF:-1 group-title="BG - US",BNT 3
+http://hls127.freeott.top:8080/BG_BNT_3_HD/video.m3u8
+#EXTINF:-1 group-title="BG - US",BNT 4
+http://hls127.freeott.top:8080/BG_BNT_4_HD/video.m3u8
+#EXTINF:-1 group-title="BG - US",NOVA TV
+http://hls127.freeott.top:8080/BG_NOVA/video.m3u8
+#EXTINF:-1 group-title="BG - US",Diema Sport
+http://hls127.freeott.top:8080/BG_Diema_Sport_HD/video.m3u8
+#EXTINF:-1 group-title="BG - US",Diema Sport 2
+http://hls127.freeott.top:8080/BG_Diema_Sport_2_HD/video.m3u8
+#EXTINF:-1 group-title="BG - US",Diema Sport 3
+http://hls127.freeott.top:8080/BG_Diema_Sport_3/video.m3u8
+#EXTINF:-1 group-title="BG - US",Nova Sport
+http://hls127.freeott.top:8080/BG_Nova_Sport_HD/video.m3u8
+#134
+
+#135
+#EXTINF:-1 group-title="BG - SZ",Diema HD
+http://78.108.244.134:8899/diema
+#EXTINF:-1 group-title="BG - SZ",TLC HD
+http://78.108.244.134:8899/tlc
+#EXTINF:-1 group-title="BG - SZ",Nova News
+http://78.108.244.134:8899/novanews
+#EXTINF:-1 group-title="BG - SZ",Kino Nova
+http://78.108.244.134:8899/kinonova
+#EXTINF:-1 group-title="BG - SZ",discovery HD
+http://78.108.244.134:8899/discovery
+#EXTINF:-1 group-title="BG - SZ",Natgeo Wild
+http://78.108.244.134:8899/ngw
+#EXTINF:-1 group-title="BG - SZ",National Geographic
+http://78.108.244.134:8899/ngeo
+#EXTINF:-1 group-title="BG - SZ",TV1000
+http://78.108.244.134:8899/tv1000
+#EXTINF:-1 group-title="BG - SZ",24Kitchen
+http://78.108.244.134:8899/24Kitchen
+#EXTINF:-1 group-title="BG - SZ",Nickelodeon
+http://78.108.244.134:8899/nick
+#EXTINF:-1 group-title="BG - SZ",Cartoon Network
+http://78.108.244.134:8899/cn
+#EXTINF:-1 group-title="BG - SZ",Disney
+http://78.108.244.134:8899/disney
+#EXTINF:-1 group-title="BG - SZ",Ekids
+http://78.108.244.134:8899/ekids
+#135
+
+#136
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/bnt1.png",BNT 1
+http://31.43.191.125:8080/restream/restream/3312
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/bnt2.png",BNT 2
+http://31.43.191.125:8080/restream/restream/3313
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/bnt3.png",BNT 3
+http://31.43.191.125:8080/restream/restream/3314
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/bnt4.png",BNT 4
+http://31.43.191.125:8080/restream/restream/3315
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/boomerang.png",BOOMERANG
+http://31.43.191.125:8080/restream/restream/3316
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/boxtv.png",BOX TV
+http://31.43.191.125:8080/restream/restream/3317
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/btv.png",BTV
+http://31.43.191.125:8080/restream/restream/3319
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/btvaction.png",BTV ACTION
+http://31.43.191.125:8080/restream/restream/3320
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/btvcinema.png",BTV CINEMA
+http://31.43.191.125:8080/restream/restream/3321
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/btvcomedy.png",BTV COMEDY
+http://31.43.191.125:8080/restream/restream/3322
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/btvlady.png",BTV LADY
+http://31.43.191.125:8080/restream/restream/3323
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/Bulgaria.png",BULGARIA 24
+http://31.43.191.125:8080/restream/restream/3324
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/cartoonnetwork.png",CARTOON NETWORK
+http://31.43.191.125:8080/restream/restream/3326
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/cinemaplus.png",CINEMA PLUS
+http://31.43.191.125:8080/restream/restream/3328
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/cinemax1.png",CINEMAX
+http://31.43.191.125:8080/restream/restream/3329
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/cinemax2.png",CINEMAX 2
+http://31.43.191.125:8080/restream/restream/3330
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/comedy.png",COMEDY PLUS
+http://31.43.191.125:8080/restream/restream/3333
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/diema.png",DIEMA TV
+http://31.43.191.125:8080/restream/restream/3338
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/diemafamily.png",DIEMA FAMILY
+http://31.43.191.125:8080/restream/restream/3335
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/diemasport.png",DIEMA SPORT
+http://31.43.191.125:8080/restream/restream/3336
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/diemasport2.png",DIEMA SPORT 2
+http://31.43.191.125:8080/restream/restream/3337
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/diema_sport_3.png",DIEMA SPORT 3
+http://31.43.191.125:8080/restream/restream/97136
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/croatia/maxsport1.png",MAX SPORT 1
+http://31.43.191.125:8080/restream/restream/2987
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/croatia/maxsport2.png",MAX SPORT 2
+http://31.43.191.125:8080/restream/restream/2988
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/croatia/maxsport3.png",MAX SPORT 3
+http://31.43.191.125:8080/restream/restream/2989
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/croatia/maxsport4.png",MAX SPORT 4
+http://31.43.191.125:8080/restream/restream/2990
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/discoverychannel.png",DISCOVERY CHANNEL
+http://31.43.191.125:8080/restream/restream/3339
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/dstv.png",DSTV
+http://31.43.191.125:8080/restream/restream/3345
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/ducktv.png",DUCK TV
+http://31.43.191.125:8080/restream/restream/3346
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/ekids.png",E KIDS
+http://31.43.191.125:8080/restream/restream/3347
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/evrokom.png",EVROKOM
+http://31.43.191.125:8080/restream/restream/3348
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/fentv.png",FEN TV
+http://31.43.191.125:8080/restream/restream/3350
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/filmboxextra.png",FILMBOX EXTRA
+http://31.43.191.125:8080/restream/restream/3353
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/folklortv.png",FOLKLOR
+http://31.43.191.125:8080/restream/restream/3355
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/foodnetwork.png",FOOD NETWORK
+http://31.43.191.125:8080/restream/restream/3356
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/fox.png",FOX
+http://31.43.191.125:8080/restream/restream/3357
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/foxcrime.png",FOX CRIME
+http://31.43.191.125:8080/restream/restream/3358
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/hbo1.png",HBO
+http://31.43.191.125:8080/restream/restream/3360
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/hbo2.png",HBO 2
+http://31.43.191.125:8080/restream/restream/3361
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/historychannel.png",HISTORY CHANNEL
+http://31.43.191.125:8080/restream/restream/3363
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/iconcerts.png",ICONCERTS
+http://31.43.191.125:8080/restream/restream/3367
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/JIMJIM.png",JIM JIM
+http://31.43.191.125:8080/restream/restream/3370
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/kanal3.png",KANAL 3
+http://31.43.191.125:8080/restream/restream/3371
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/kinonova.png",KINONOVA
+http://31.43.191.125:8080/restream/restream/3372
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/magictv.png",MAGIC TV
+http://31.43.191.125:8080/restream/restream/3373
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/MOVIESTAR.png",MOVIE STAR
+http://31.43.191.125:8080/restream/restream/3374
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/mtv.png",MTV
+http://31.43.191.125:8080/restream/restream/3375
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/natgeo.png",NAT GEO
+http://31.43.191.125:8080/restream/restream/3376
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/natgeowild.png",NAT GEO WILD
+http://31.43.191.125:8080/restream/restream/3377
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/nickjr.png",NICK JR
+http://31.43.191.125:8080/restream/restream/3378
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/nickelodeon.png",NICKELODEON
+http://31.43.191.125:8080/restream/restream/3379
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/novatv.png",NOVA TV
+http://31.43.191.125:8080/restream/restream/3380
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/planeta.png",PLANETA
+http://31.43.191.125:8080/restream/restream/3381
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/retromusic.png",RETRO MUSIC
+http://31.43.191.125:8080/restream/restream/3383
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/ring.png",RING
+http://31.43.191.125:8080/restream/restream/3384
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/SKATTV.png",SKAT TV
+http://31.43.191.125:8080/restream/restream/3387
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/thevoice.png",THE VOICE
+http://31.43.191.125:8080/restream/restream/3390
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/logotiankovfolk3.png",TIANKOV FOLK
+http://31.43.191.125:8080/restream/restream/3391
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/tlc.png",TLC
+http://31.43.191.125:8080/restream/restream/3392
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/travelchannel.png",TRAVEL CHANNEL
+http://31.43.191.125:8080/restream/restream/3393
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/tv1.png",TV 1
+http://31.43.191.125:8080/restream/restream/3394
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/tv1000.png",TV 1000
+http://31.43.191.125:8080/restream/restream/3395
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/tvevropa.png",TV EVROPA
+http://31.43.191.125:8080/restream/restream/3396
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/tvplus.png",TV PLUS
+http://31.43.191.125:8080/restream/restream/3397
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/viasatexplorer.png",VIASAT EXPLORER
+http://31.43.191.125:8080/restream/restream/3398
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/viasathistory.png",VIASAT HISTORY
+http://31.43.191.125:8080/restream/restream/3399
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/viasatnature.png",VIASAT NATURE
+http://31.43.191.125:8080/restream/restream/3400
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/VTK.png",VTK
+http://31.43.191.125:8080/restream/restream/3401
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/eurosport-1.png",EUROSPORT 1
+http://31.43.191.125:8080/restream/restream/56485
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/eurosport-2.png",EUROSPORT 2
+http://31.43.191.125:8080/restream/restream/56486
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/24kitchen.png",24 KITCHEN
+http://31.43.191.125:8080/restream/restream/3298
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/alfatv.png",ALFA TV
+http://31.43.191.125:8080/restream/restream/3300
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/amc.png",AMC
+http://31.43.191.125:8080/restream/restream/3301
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/animalplanet.png",ANIMAL PLANET
+http://31.43.191.125:8080/restream/restream/3302
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/automotorsport.png",AUTO MOTOR SPORT
+http://31.43.191.125:8080/restream/restream/3303
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/babytv.png",BABY TV
+http://31.43.191.125:8080/restream/restream/3306
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/balkanika.png",BALKANIKA
+http://31.43.191.125:8080/restream/restream/3307
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/BGMUSIC.jpg",BG MUSIC
+http://31.43.191.125:8080/restream/restream/3309
+#EXTINF:-1 group-title="BG - NL 2" tvg-logo="https://docdog.top/logo/countries/bulgaria/bloomberg.png",BLOOMBERG
+http://31.43.191.125:8080/restream/restream/3311
+#136
